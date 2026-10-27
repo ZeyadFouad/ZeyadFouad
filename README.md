@@ -1,6 +1,6 @@
 ## Zeyad Fouad
 
-Computer Science (Artificial Intelligence) student at Asia Pacific University (APU), Kuala Lumpur, and Full-Stack Intern at ZTutor. I build AI/NLP systems and full-stack web applications.
+Computer Science (Artificial Intelligence) student at Asia Pacific University (APU), Kuala Lumpur, and Full-Stack Intern at Raya. I build AI/NLP systems and full-stack web applications.
 
 - **Currently:** Full-Stack Intern at Raya
 - **Building:** Nexus RAG, a hybrid retrieval-augmented generation Q&A system
